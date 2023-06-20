@@ -1,0 +1,14 @@
+REQUISITOS MINIPROYECTO PD
+
+- 2 funciones de prelude y Data.List
+- 2 funciones recursivas
+- 2 funciones por patrones
+- 2 funciones por guardas
+- 2 funciones con case of 
+- 2 usos de listas por compresion
+- 2 usos de orden superior
+- Declarar los tipos de todas las funciones
+
+- Crear 1 módulo
+- Crear 2 tipos de datos algebráicos
+- Crear 2 tipos de datos abstractos
